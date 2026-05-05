@@ -77,8 +77,12 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [v2rayN-windows-arm64-desktop](https://github.com/Parsa24566/Downloader/tree/main/downloads/v2rayN-windows-arm64-desktop)
+1. [v2rayN-windows-64-desktop](https://github.com/Parsa24566/Downloader/tree/main/downloads/v2rayN-windows-64-desktop)
+
+2. [v2rayN-windows-arm64-desktop](https://github.com/Parsa24566/Downloader/tree/main/downloads/v2rayN-windows-arm64-desktop)
 
 ---
