@@ -83,14 +83,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [get](https://github.com/Parsa24566/Downloader/tree/main/downloads/get)
-
-2. [get_river](https://github.com/Parsa24566/Downloader/tree/main/downloads/get_river)
-
-3. [v2rayN-windows-64-desktop](https://github.com/Parsa24566/Downloader/tree/main/downloads/v2rayN-windows-64-desktop)
-
-4. [v2rayN-windows-arm64-desktop](https://github.com/Parsa24566/Downloader/tree/main/downloads/v2rayN-windows-arm64-desktop)
+1. [36253_1080p](https://github.com/Parsa24566/Downloader/tree/main/downloads/36253_1080p)
 
 ---
