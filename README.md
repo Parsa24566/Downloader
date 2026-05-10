@@ -89,6 +89,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [35295_1080p](https://github.com/Parsa24566/Downloader/tree/main/downloads/35295_1080p)
@@ -96,5 +98,7 @@ a
 2. [36253_1080p](https://github.com/Parsa24566/Downloader/tree/main/downloads/36253_1080p)
 
 3. [download](https://github.com/Parsa24566/Downloader/tree/main/downloads/download)
+
+4. [windows](https://github.com/Parsa24566/Downloader/tree/main/downloads/windows)
 
 ---
